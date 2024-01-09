@@ -1,0 +1,79 @@
+MothFront.png
+size:600,1064
+filter:Linear,Linear
+pma:true
+antenna left
+bounds:315,926,136,282
+offsets:411,541,825,882
+rotate:90
+antenna right
+bounds:310,550,136,287
+offsets:267,545,825,882
+rotate:90
+back wing left
+bounds:2,458,116,304
+offsets:401,63,825,882
+rotate:90
+back wing right
+bounds:2,576,118,306
+offsets:313,64,825,882
+rotate:90
+butt
+bounds:449,44,121,142
+offsets:350,175,825,882
+rotate:90
+chest
+bounds:297,334,60,94
+offsets:380,283,825,882
+rotate:90
+eye left
+bounds:449,167,113,149
+offsets:424,426,825,882
+rotate:90
+eye right
+bounds:414,282,112,150
+offsets:273,423,825,882
+rotate:90
+foot left
+bounds:249,296,35,163
+offsets:433,50,825,882
+rotate:90
+foot right
+bounds:127,8,39,161
+offsets:350,52,825,882
+rotate:90
+fur
+bounds:308,396,284,152
+offsets:266,294,825,882
+head
+bounds:315,688,236,253
+offsets:290,349,825,882
+rotate:90
+lash left
+bounds:307,50,140,230
+offsets:461,410,825,882
+lash right
+bounds:167,61,138,231
+offsets:215,420,825,882
+leg left
+bounds:249,333,46,123
+offsets:436,134,825,882
+leg right
+bounds:2,2,45,123
+offsets:340,134,825,882
+rotate:90
+top wing left
+bounds:2,49,163,243
+offsets:415,136,825,882
+top wing right
+bounds:2,294,162,245
+offsets:248,142,825,882
+rotate:90
+wing left
+bounds:2,880,182,311
+offsets:402,71,825,882
+rotate:90
+wing right
+bounds:2,696,182,308
+offsets:242,76,825,882
+rotate:90
